@@ -1,6 +1,6 @@
 ## How to install
 <ol>
-    <li>1. Download this project and if you have composer installed globally run
+    <li> Download this project and if you have composer installed globally run
         <code>composer install</code> to install dependencies like bootstrap and jquery including ckeditor and laravel file-manager, though you'll find them already published in public folder,so this project can work immediately after following next commands</li>
     <li>Create relational database like mySQL, rename .env example to .env and edit this file to add connection to your new database</li>
     <li>Run <code>php artisan key:generate</code>to generate a key for app</li>
