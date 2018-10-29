@@ -31,7 +31,9 @@
 
 
 ## Resources
-<a href="http://www.sutanaryan.com/2017/07/how-to-create-a-blog-with-laravel-5-part-1-file-structure-templating/">laravel blog tutorial by SutanaRyan</a>
-<a href="https://github.com/UniSharp/laravel-ckeditor">laravel CKEditor</a>
-<a href="https://github.com/UniSharp/laravel-filemanager">laravel-file-manager</a>
-<a href="https://laravel.com/docs/5.7/localization">laravel localization</a>
+<ul>
+<li><a href="http://www.sutanaryan.com/2017/07/how-to-create-a-blog-with-laravel-5-part-1-file-structure-templating/">laravel blog tutorial by SutanaRyan</a></li>
+<li><a href="https://github.com/UniSharp/laravel-ckeditor">laravel CKEditor</a></li>
+<li><a href="https://github.com/UniSharp/laravel-filemanager">laravel-file-manager</a></li>
+<li><a href="https://laravel.com/docs/5.7/localization">laravel localization</a></li>
+</ul>
